@@ -1,0 +1,16 @@
+{
+    "name": "pandumweb/twig",
+    "description": "My first Twig Engine Template!",
+    "require": {
+        "twig/twig": "~1.0",
+        "cocur/slugify": "@stable"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LOR",
+            "email": "sorialor@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
