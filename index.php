@@ -7,6 +7,3 @@
  */
 
 require __DIR__.'/vendor/autoload.php';
-$string = "hufref fhr!çu'ço frferfrf!uçà fjfizef!u!çuç ";
-$slugify = new \Cocur\Slugify\Slugify();
-echo $slugify ->slugify($string,'_');
